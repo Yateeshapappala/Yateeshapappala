@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to My Github Profile
+## 👋 Welcome! Dive into my coding world.
 
 I'm Yateesha Pappala, a passionate tech enthusiast with a robust background in data analysis, machine learning, and software development. I love creating innovative solutions, optimizing processes, and diving deep into complex challenges.
 
