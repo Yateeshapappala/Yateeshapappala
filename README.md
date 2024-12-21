@@ -7,9 +7,9 @@ I'm Yateesha Pappala, a passionate tech enthusiast with a robust background in d
 
 🌱 **Skills:**
 
-**Programming Languages:** Java, Python, C, C++
+**Programming Languages:** Java, Python, C/C++
 
-**Web Development:** HTML, CSS, JavaScript, Django
+**Web Development:** HTML/CSS, JavaScript, React, Django
 
 **Developer Tools:** Git, VS Code, MS Excel
 
