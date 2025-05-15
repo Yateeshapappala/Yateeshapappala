@@ -9,11 +9,11 @@ I'm Yateesha Pappala, a passionate tech enthusiast with a robust background in d
 
 **Programming Languages:** Java, Python, C/C++
 
-**Web Development:** HTML/CSS, JavaScript, React, Django
+**Web Development:** HTML/CSS, JavaScript, React, Django, TypeScript, NodeJS
 
 **Developer Tools:** Git, VS Code, MS Excel
 
-**Databases/Cloud:** SQL,NOSQL
+**Databases/Cloud:** SQL,NOSQL, MongoDB
 
 **Technical Expertise:** Strong foundation in data structures and algorithms
 
