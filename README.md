@@ -1,35 +1,59 @@
-## 👋 Welcome! Dive into my coding world.
 
-I'm Yateesha Pappala, a passionate tech enthusiast with a robust background in data analysis, machine learning, and software development. I love creating innovative solutions, optimizing processes, and diving deep into complex challenges.
+## 👋 Hello! I'm Yateesha Pappala
 
-## About Me
-🔍 **Current Pursuits:** As a final-year student, I'm actively enhancing my portfolio with diverse projects and seeking opportunities to apply my knowledge in real-world scenarios.
+I'm a dedicated and results-driven **Computer Science graduate** with hands-on experience in **software development**, **data analysis**, and **machine learning**. With a strong foundation in full-stack development and a passion for building scalable solutions, I’m eager to contribute to dynamic tech teams and grow as a professional developer.
 
-🌱 **Skills:**
+---
 
-**Programming Languages:** Java, Python, C/C++
+## 💼 Professional Summary
 
-**Web Development:** HTML/CSS, JavaScript, React, Django, TypeScript, NodeJS
+🎓 **Education**: B.Tech in Computer Science – Graduated April 2025  
+🧠 **Strengths**: Problem-solving, team collaboration, and a deep curiosity for emerging technologies.  
+🚀 **Goal**: To design impactful, high-performance software systems that make a difference in the real world.
 
-**Developer Tools:** Git, VS Code, MS Excel
+---
 
-**Databases/Cloud:** SQL,NOSQL, MongoDB
+## 🛠️ Technical Skills
 
-**Technical Expertise:** Strong foundation in data structures and algorithms
+- **Languages**: Python, Java, C, C++, JavaScript, TypeScript  
+- **Web Development**: React.js, Node.js, Express.js, HTML5, CSS3, Django  
+- **Databases**: SQL, NoSQL, MongoDB  
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman, MS Excel  
+- **Core CS Knowledge**: Data Structures & Algorithms, DBMS, OOP, Operating Systems  
+- **Soft Skills**: Strong communication, adaptability, time management, and leadership
 
-**✨ Soft Skills:** Effective communicator, innovative thinker, and proficient in time management.
+---
 
-**📚 Academic Involvement:** Beyond coursework, I’ve engaged in leadership roles, conducted events, and collaborated with peers on tech initiatives.
+## 💡 Projects Showcase
 
-## 📈 Projects:
-**Machine Learning:** Developed a model for potato disease classification and completed a mini project on optimization of machine downtime.
+- **🧠 Potato Disease Classifier (TensorFlow, Python)**  
+  Designed a convolutional neural network (CNN) model that identifies potato leaf diseases with over 95% accuracy. Optimized preprocessing for real-time performance.
 
-**Web and Software Development:** Experience in building full-stack web applications and contributing to college-level projects.
+- **💼 Job BoardX (MERN Stack)**  
+  Full-stack job portal with role-based authentication, secure CRUD operations, and modern UI/UX using React, TypeScript, and Node.js.  
+  [View Project](https://github.com/Yateeshapappala/Job-BoardX)
 
-## 📊 Current Interests
+- **🌐 College Course Registration Portal (Django)**  
+  Built a robust, secure web application for course registration and student management with improved query performance and clean UI.  
+  [View Project](https://github.com/Yateeshapappala/College-Website)
 
-I'm focused on strengthening my expertise in software development, data analysis, and algorithmic problem-solving. This includes exploring optimization problems and developing innovative solutions that blend various technical domains.
+---
 
-## 🌐 Connect with Me
-- **LinkedIn:** [Yateesha_Pappala](https://www.linkedin.com/in/yateesha-pappala-11047922a/)
-- **Email:** [yateeshapappala@gmail.com](mailto:yateeshapappala@gmail.com)
+## 📈 Current Focus Areas
+
+- Advanced JavaScript & React patterns  
+- Backend architecture & RESTful APIs  
+- Algorithmic problem solving (LeetCode, HackerRank)  
+- System design fundamentals and scalability
+
+---
+
+## 🌐 Let's Connect
+
+📧 Email: [yateeshapappala@gmail.com](mailto:yateeshapappala@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yateesha-pappala-11047922a](https://www.linkedin.com/in/yateesha-pappala-11047922a/)  
+💻 GitHub: [github.com/Yateeshapappala](https://github.com/Yateeshapappala)
+
+---
+
+📌 *Actively seeking full-time Software Developer roles (Backend | Frontend | Full Stack) – open to relocation and remote opportunities.*
