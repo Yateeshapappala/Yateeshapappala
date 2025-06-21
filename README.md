@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 CSE Graduate from JNTUGV-CEV (CGPA: 8.34)  
+- 🎓 CSE Graduate(2025 batch) from JNTUGV-CEV (CGPA: 8.34)  
 - 🛠️ Proficient in React, Django, Python, JavaScript, and MongoDB  
 - 👩‍💻 Software Engineering Intern @ HiringHood | Research Intern @ NIT Warangal  
 - 🤖 Built AI/ML models and scalable full-stack web applications  
